@@ -115,8 +115,6 @@ Usuario puede navegar libremente entre las vistas de materias y asistencias
 
 Al cerrar sesión, se elimina la API key y se redirige a login
 
-## Ejemplo Visual
-En la carpeta media/ejemplo1.gif encontrará un ejemplo conceptual de cómo podría verse la aplicación. Este ejemplo es solo una guía, no es necesario replicarlo exactamente. Lo importante es implementar las funcionalidades y componentes requeridos.
 
 ## Consideraciones Adicionales
 Se proporcionan 150 llamadas a la API para completar la prueba. Si se agotan, se descontarán 5 puntos por reiniciar el contador.
