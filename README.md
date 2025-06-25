@@ -135,4 +135,4 @@ Revisa tu correo para encontrar tu respectiva API key.
 ## Link para Backend
 El link para consumir el backend es: http://pc2-matricula-alb-2123051620.us-east-1.elb.amazonaws.com/
 
-Puedes revisar la documentación de la API en Swagger en: /docs
+Puedes revisar la documentación de la API en Swagger en: /docs {http://pc2-matricula-alb-2123051620.us-east-1.elb.amazonaws.com/docs}
